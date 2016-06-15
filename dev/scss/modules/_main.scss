@@ -157,3 +157,14 @@ h1 {
     }
   }
 }
+
+.btn-more {
+  display: block;
+  font-weight: 700;
+  color: #fff;
+  font-style: italic;
+
+  &:hover {
+    text-decoration: none;
+  }
+}
